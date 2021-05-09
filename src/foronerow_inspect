@@ -1,0 +1,43 @@
+<li class="row" id="csci-ua0201-006">
+<div>
+<span class="col-xs-12 col-sm-3 italic" style="word-wrap:break-word;">
+<a data-placement="left" data-toggle="tooltip" href="http://cs.nyu.edu/courses/fall20/CSCI-UA.0201-006/" title="NYU Home login required to view course page">CSCI-UA.0201-​006</a>
+<br/>(10297)
+
+                        </span>
+<span class="col-xs-12 col-sm-3">
+<a class="expand" data-toggle="collapse" href="#csci-ua0201-006-desc">
+                            
+                            
+                            
+                            
+                              
+                            
+                            Computer Systems Organization - Recitation</a> 
+                        </span>
+                        
+<span class="col-xs-12 col-sm-2">
+                          
+                            Sanjana Jangnure
+                          
+                          
+                            
+                          
+                          
+                          
+                          
+                        </span>
+<span class="col-xs-12 col-sm-2">R 12:30-1:45PM</span>
+<span class="col-xs-12 col-sm-2"> ONLINE</span>
+<span class="col-xs-12 collapse expandable" id="csci-ua0201-006-desc">
+<br/>
+                          
+                            Covers the internal structure of computers, machine (assembly) language programming, and the use of pointers in high-level languages. Topics include the logical design of computers, computer architecture, the internal representation of data, instruction sets, and addressing logic, as well as pointers, structures, and other features of high-level languages that relate to assembly language. Programming assignments are in both assembly language and other languages.
+                            
+                            <br/><br/>
+<b>Prerequisites</b>: Data Structures (CSCI-UA 102).
+                            
+                          
+                        </span>
+</div>
+</li>
